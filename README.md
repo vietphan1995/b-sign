@@ -17,4 +17,4 @@ BSign helps people commute in environments that is not supported enough commute 
 [back to projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://six-zinc-ad4.notion.site/BSign-1b25e832d6ee80a197fbf6cbefffc565
+https://phantrungviet.notion.site/BSign-1b25e832d6ee80a197fbf6cbefffc565

@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/b-sign.git](https://github.com/vietphan1995/b-sign.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:b-sign_project&body=left_your_idea)
+
 BSign is an application software in sign language branch, this software helps you look up sign dictionary from other languages. This sign dictionary is built by community correspond to culture and definition of place where they live.
 
 BSign clarifies your communication in other methods like voice, text by body visualizing, especially by hands and additional mouth.
@@ -15,6 +17,8 @@ BSign streams automatically translating by generating sign video from other lang
 BSign helps people commute in environments that is not supported enough commute conditions like planet space, in the water.
 
 ![image.png](image.png)
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
